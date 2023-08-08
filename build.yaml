@@ -20,5 +20,5 @@ include:
     shield: corne_right
   - board: nice_view
     shield: corne_left
-    board: nice_view
+  - board: nice_view
     shield: corne_right
