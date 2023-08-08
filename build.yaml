@@ -18,7 +18,7 @@ include:
     shield: corne_left
   - board: nice_nano_v2
     shield: corne_right
-  - board: nice_view
+  - board: nice_view_adapter niceview
     shield: corne_left
-  - board: nice_view
+  - board: nice_view_adapter niceview
     shield: corne_right
